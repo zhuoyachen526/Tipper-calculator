@@ -24,6 +24,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+* [x] Adding a setting page to change currencies(Chinese yuan, English Pound, Euros and Canadian dollar)
 
 ## Video Walkthrough 
 
