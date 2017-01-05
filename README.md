@@ -34,7 +34,8 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-GIF walkthrough of Tipper's functionality: https://i.imgur.com/WhnoL1q.gif
+****************GIF walkthrough of Tipper's functionality: https://i.imgur.com/WhnoL1q.gif
+
 
 ## Notes
 
